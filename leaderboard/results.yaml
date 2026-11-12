@@ -12,7 +12,7 @@
 results_repo: llamaindex/ParseBench-results
 data_repo: llamaindex/ParseBench
 data_revision: 2805a1d940f95a203e0ae4b88be9934f7765b3fc
-scored_with: c38085d2ccd7f717900037e361806d22c51bc33b
+scored_with: d864c5202a067fe44d12383b6c1d76bc7532ca53
 rows:
 - provider: LlamaParse Cost Effective
   status: verified
